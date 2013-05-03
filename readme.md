@@ -1,10 +1,10 @@
 # WP e-Commerce SKU in notification emails
-__Contributors__: leewillis77
-__Donate link__: http://www.leewillis.co.uk/wordpress-plugins/?utm_source=wordpress&utm_medium=www&utm_campaign=wpec-sku-notification-emails
-__Tags__: e-commerce, wp e-commerce, wpec
-__Requires at least__: 3.5
-__Tested up to__: 3.5.1
-__Stable tag__: 0.1
+__Contributors__: leewillis77  
+__Donate link__: http://www.leewillis.co.uk/wordpress-plugins/?utm_source=wordpress&utm_medium=www&utm_campaign=wpec-sku-notification-emails  
+__Tags__: e-commerce, wp e-commerce, wpec  
+__Requires at least__: 3.5  
+__Tested up to__: 3.5.1  
+__Stable tag__: 0.1  
 
 ## Description
 
