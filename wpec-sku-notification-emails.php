@@ -46,5 +46,4 @@ function add_sku_to_table_args( $table_args, $WPSC_Purchase_Log_Notification ) {
 	return $table_args;
 
 }
-
 add_filter( 'wpsc_purchase_log_notification_product_table_args', 'add_sku_to_table_args', 10, 3 );
